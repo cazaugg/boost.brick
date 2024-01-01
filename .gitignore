@@ -5,6 +5,8 @@
 
 # Local backup folders
 *-backup/
+*.kicad_sch-bak
+*.lck
 fp-info-cache
 
 # Ignore generated files (eg BOM)
@@ -12,6 +14,9 @@ fp-info-cache
 pcb/*.xml
 pcp/*.csv
 pcp/*.html
+
+# Exclude Gerber
+prod/
 
 # General
 *.zip

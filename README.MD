@@ -2,7 +2,7 @@
 
 ## Project description
 
-This is where your PCB description goes. If you want to learn more about this template look at [kicad-wizard]([script/kicad-wizard.md](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
+This is battery holder with a boost regulator that allow generating a voltage of 3.3V or 5V (or any other voltage from 1.8 to 5.5V) from a singel AA cell (NIMH rechargeable compatible).
 
 ## Workflow and project organization
 
@@ -12,6 +12,6 @@ This is where your PCB description goes. If you want to learn more about this te
 
 ## Tools
 
-Made with KiCad 7.
+Made with KiCad 7. Project setup with [kicad-template-wizard]([script/kicad-wizard.md](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
 
-***(c) 2023 by cazaugg***
+***(c) 2024 by cazaugg***
