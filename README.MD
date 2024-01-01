@@ -12,6 +12,6 @@ This is battery holder with a boost regulator that allow generating a voltage of
 
 ## Tools
 
-Made with KiCad 7. Project setup with [kicad-template-wizard]([script/kicad-wizard.md](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
+Made with KiCad 7. Project setup with [kicad-template-wizard](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
 
 ***(c) 2024 by cazaugg***
